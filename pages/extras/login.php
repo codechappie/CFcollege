@@ -17,15 +17,23 @@
   <!-- iCheck -->
   <link rel="stylesheet" href="../../plugins/iCheck/square/blue.css">
 
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-  <![endif]-->
-
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+  <link href="https://fonts.googleapis.com/css?family=Assistant:200" rel="stylesheet">
+  <style>
+    button, #bg-btn, .btn, .btn-block, .btn-flat{
+        background-color: #547DE8!important;
+    }
+    .foot{
+      text-align: center;
+      color: #B0B0B0;
+      font-size: 12px;
+    }
+    .text-bla{
+      color: #DBDBDB!important;
+      font-size: 12px;
+    }
+  </style>
 </head>
 <body style="background: radial-gradient(rgb(93, 143, 250), rgb(76, 108, 214), rgb(41, 85, 179));" class="hold-transition login-page">
 <div class="login-box">
@@ -57,7 +65,7 @@
         <br>
         <br>
         <div class="col-xs-12">
-          <button class="btn btn-primary btn-block btn-flat"><a style="color: white" href="../../index2.php">Ingresar</a></button>
+          <button id="bg-btn" type="submit" class="btn btn-block btn-flat"><a style="color: white" >Ingresar</a></button>
         </div>
         <br>
         <br><br><br>
@@ -75,7 +83,12 @@
   <!-- /.login-box-body -->
 </div>
 <!-- /.login-box -->
-
+<footer>
+  <div class="foot">
+    Copyright &copy; 2018 <b><a target="_blank" href="https://cf-softwaresolutions.cf" class="text-bla">CF Software Solutions</a></b><br>
+    Todos los derechos reservados.
+  </div>
+</footer>
 <!-- jQuery 3 -->
 <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
 <!-- Bootstrap 3.3.7 -->
