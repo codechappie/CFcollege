@@ -1,0 +1,91 @@
+body{
+}
+.imog {
+  margin-top:   100px;
+  font-size: 900px;
+}
+.imog h2{
+  color: #000;
+}
+.card-group{
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 0px;
+}
+.card{
+  width: 40px!important;
+  height: 140px;
+  margin: 10px;
+  border-radius: 10px;
+  transition: all 0.6s ease;
+}
+.card:hover{
+  background-color: #4b7bec;
+}
+
+.fa, .far, .fal{
+text-align: center;
+margin-top: 35px;
+font-size: 20px;
+color: white;
+}
+
+a{
+  text-align: center;
+  color: white!important;
+  font-size: 17px;
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Assistant', sans-serif;
+}
+.card-title{
+  color: #fff;
+}
+
+.card-body{
+  text-align: center;
+}
+.bg-1{
+  background-color: #a5b2;
+}
+.bg-2{
+  background-color: #a5b2;
+}
+.bg-3{
+  background-color: #a5b2;
+}
+.bg-4{
+  background-color: #a5b2;
+}
+.bg-5{
+  background-color: #a5b2;
+}
+
+.bg-1a{
+  background-color: #a5b2;
+}
+.bg-2a{
+  background-color: #a5b2;
+}
+.bg-3a{
+  background-color: #a5b2;
+}
+.bg-4a{
+  background-color: #a5b2;
+}
+.bg-5a{
+  background-color: #a5b2;
+}
+
+
+@media (min-width: 576px) {
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}
+/* Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
