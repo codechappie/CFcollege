@@ -80,9 +80,9 @@ a{
   color: #DBDBDB!important;
   font-size: 12px;
 }
-@media (min-width: 300px){
+@media (min-width: 200px){
   .card{
-    width: 93px!important;
+    width: 98px!important;
     height: 120px;
     margin: 1px;
     padding: 0px;
@@ -95,7 +95,45 @@ a{
 
   .fa, .far, .fal{
   text-align: center;
-  font-size: 50px;
+  font-size: 60px;
+  padding: 0;
+  margin-top: 20px;
+  font-size: 24px;
+  color: white;
+  line-height: 1.1em;
+  }
+  .imog {
+    margin-top:   15px;
+    margin-bottom: 0px;
+  }
+  a{
+    text-align: center;
+    color: white!important;
+    font-size: 10px;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    padding-bottom:0px;
+    line-height: 0px;
+    font-family: 'Assistant', sans-serif;
+  }
+}
+@media (min-width: 300px){
+  .card{
+    width: 98px!important;
+    height: 120px;
+    margin: 1px;
+    padding: 0px;
+    border-radius: 2px;
+    transition: all 0.6s ease;
+  }
+  .card:hover{
+    background-color: #4b7bec;
+  }
+
+  .fa, .far, .fal{
+  text-align: center;
+  font-size: 60px;
   padding: 0;
   margin-top: 20px;
   font-size: 24px;
@@ -133,7 +171,7 @@ a{
 
   .fa, .far, .fal{
   text-align: center;
-  font-size: 50px;
+  font-size: 120px;
   margin-top: 25px;
   font-size: 20px;
   color: white;
@@ -201,7 +239,7 @@ a{
   .fa, .far, .fal{
   text-align: center;
   margin-top: 25px;
-  font-size: 20px;
+  font-size: 25px;
   color: white;
 
   }
@@ -232,7 +270,7 @@ a{
   .fa, .far, .fal{
   text-align: center;
   margin-top: 35px;
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   }
 
@@ -264,7 +302,7 @@ a{
   .fa, .far, .fal{
   text-align: center;
   margin-top: 35px;
-  font-size: 20px;
+  font-size: 30px;
   color: white;
   }
 

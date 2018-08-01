@@ -28,7 +28,7 @@
   <div class="row justify-content-center">
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-info-circle"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
           <a  class="card-title">Información Personal</a>
@@ -37,7 +37,7 @@
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-calendar-check"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
           <a  class="card-title">Asistencia</a>
@@ -46,7 +46,7 @@
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-file-invoice"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
           <a  class="card-title">Calificaciónes</a>
@@ -55,7 +55,7 @@
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-volume-up"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
           <a  class="card-title">Comunicados</a>
@@ -64,7 +64,7 @@
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-clipboard-list"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
           <a  class="card-title">Encuestas</a>
@@ -73,10 +73,10 @@
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-receipt"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Reportes</a>
         </div>
       </div>
     </div>
@@ -86,55 +86,55 @@
   <div class="row justify-content-center">
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-comments"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Mensajes</a>
         </div>
       </div>
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-atlas"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Horarios</a>
         </div>
       </div>
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-folder-open"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Recursos</a>
         </div>
       </div>
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-hand-holding-usd"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Historial Económico</a>
         </div>
       </div>
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-calendar-alt"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Calendario Escolar</a>
         </div>
       </div>
     </div>
     <div class="col-xs-2">
       <div onclick="location.href='#';" class="card bg-1">
-        <i class="fa fa-user"></i>
+        <i class="fa fa-laptop-code"></i>
         <!--<img class="card-img-top" src="dist/img/avatar.png" alt="Card image cap">-->
         <div class="card-body">
-          <a  class="card-title">Información Personal</a>
+          <a  class="card-title">Contáctanos</a>
         </div>
       </div>
     </div>

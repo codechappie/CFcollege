@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>AdminLTE 2 | Invoice</title>
+  <title>Datos Personales</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -33,8 +33,8 @@
     <div class="row">
       <div class="col-xs-12">
         <h2 class="page-header">
-          <i class="fa fa-globe"></i> AdminLTE, Inc.
-          <small class="pull-right">Date: 2/10/2014</small>
+          <i class="fa fa-globe"></i> CFcollege, Inc.
+
         </h2>
       </div>
       <!-- /.col -->
@@ -42,33 +42,33 @@
     <!-- info row -->
     <div class="row invoice-info">
       <div class="col-sm-4 invoice-col">
-        From
+        De
         <address>
-          <strong>Admin, Inc.</strong><br>
-          795 Folsom Ave, Suite 600<br>
-          San Francisco, CA 94107<br>
-          Phone: (804) 123-5432<br>
-          Email: info@almasaeedstudio.com
+          <strong>Institución Educativa</strong><br>
+          795 Javeir Prado calle 173<br>
+          Lima, 23107<br>
+          Telefono: (01) 123-5432<br>
+          E-mail: info@instucioneducativa.com
         </address>
       </div>
       <!-- /.col -->
       <div class="col-sm-4 invoice-col">
-        To
+
         <address>
-          <strong>John Doe</strong><br>
-          795 Folsom Ave, Suite 600<br>
-          San Francisco, CA 94107<br>
-          Phone: (555) 539-1037<br>
-          Email: john.doe@example.com
+          <strong></strong><br>
+          <br>
+          <br>
+          <br>
+
         </address>
       </div>
       <!-- /.col -->
       <div class="col-sm-4 invoice-col">
-        <b>Invoice #007612</b><br>
+        <b>Salida #00001</b><br>
         <br>
-        <b>Order ID:</b> 4F3S8J<br>
-        <b>Payment Due:</b> 2/22/2014<br>
-        <b>Account:</b> 968-34567
+        <b></b> <br>
+        <b>Asunto:</b> Información personal<br>
+        <b>Extraida por:</b> CF Software Solutions
       </div>
       <!-- /.col -->
     </div>
@@ -80,41 +80,62 @@
         <table class="table table-striped">
           <thead>
           <tr>
-            <th>Qty</th>
-            <th>Product</th>
-            <th>Serial #</th>
-            <th>Description</th>
-            <th>Subtotal</th>
+            <td>Id:</td>
+            <td>4000302023</td>
           </tr>
           </thead>
           <tbody>
           <tr>
-            <td>1</td>
-            <td>Call of Duty</td>
-            <td>455-981-221</td>
-            <td>El snort testosterone trophy driving gloves handsome</td>
-            <td>$64.50</td>
+            <td>Nombres:</td>
+            <td>David Ronald</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>Need for Speed IV</td>
-            <td>247-925-726</td>
-            <td>Wes Anderson umami biodiesel</td>
-            <td>$50.00</td>
+            <td>Apellidos:</td>
+            <td>Carbajal Cordova</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>Monsters DVD</td>
-            <td>735-845-642</td>
-            <td>Terry Richardson helvetica tousled street art master</td>
-            <td>$10.70</td>
+            <td>DNI:</td>
+            <td>73400223</td>
           </tr>
           <tr>
-            <td>1</td>
-            <td>Grown Ups Blue Ray</td>
-            <td>422-568-642</td>
-            <td>Tousled lomo letterpress</td>
-            <td>$25.99</td>
+            <td>Dirección:</td>
+            <td>Mz B lot 2 Urbanización las Viñas</td>
+          </tr>
+          <tr>
+            <td>Teléfono del apoderado:</td>
+            <td>982 390 934</td>
+          </tr>
+          <tr>
+            <td>Sexo:</td>
+            <td>Masculino</td>
+          </tr>
+          <tr>
+            <td>Fecha de nacimiento:</td>
+            <td>21/05/2002</td>
+          </tr>
+          <tr>
+            <td>Departamento:</td>
+            <td>Lima</td>
+          </tr>
+          <tr>
+            <td>Provincia:</td>
+            <td>Lima</td>
+          </tr>
+          <tr>
+            <td>Fecha matrícula:</td>
+            <td>23/03/2003</td>
+          </tr>
+          <tr>
+            <td>Nivel:</td>
+            <td>Primaria</td>
+          </tr>
+          <tr>
+            <td>Grado y Sección:</td>
+            <td>3ro A</td>
+          </tr>
+          <tr>
+            <td>Tutora:</td>
+            <td>Andrea Girón</td>
           </tr>
           </tbody>
         </table>
@@ -133,8 +154,8 @@
         <img src="../../dist/img/credit/paypal2.png" alt="Paypal">
 
         <p class="text-muted well well-sm no-shadow" style="margin-top: 10px;">
-          Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg dopplr
-          jibjab, movity jajah plickers sifteo edmodo ifttt zimbra.
+          Etsy doostang zoodles disqus groupon greplin oooj voxy zoodles, weebly ning heekya handango imeem plugg
+          dopplr jibjab, movity jajah plickers sifteo edmodo ifttt zimbra.
         </p>
       </div>
       <!-- /.col -->
@@ -165,6 +186,8 @@
       <!-- /.col -->
     </div>
     <!-- /.row -->
+
+
   </section>
   <!-- /.content -->
 </div>
